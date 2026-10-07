@@ -1,0 +1,1596 @@
+[
+  {
+    "scenario_id": 1,
+    "random_seed": 20260812,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 184,
+        "amplitude": 0.1001100121176241,
+        "kind": "step",
+        "duration_min": 35
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 253,
+        "amplitude": -0.2241621455156023,
+        "kind": "step",
+        "duration_min": 28
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 285,
+        "amplitude": 0.12685456746859972,
+        "kind": "pulse",
+        "duration_min": 42
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 291,
+        "amplitude": 0.018086659987969125,
+        "kind": "enhanced_colored",
+        "duration_min": 23
+      }
+    ]
+  },
+  {
+    "scenario_id": 2,
+    "random_seed": 20260813,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 102,
+        "amplitude": 0.1298620553790893,
+        "kind": "ramp",
+        "duration_min": 30
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 131,
+        "amplitude": -0.2179454000254306,
+        "kind": "step",
+        "duration_min": 28
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 260,
+        "amplitude": -0.10905029522512075,
+        "kind": "step",
+        "duration_min": 38
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 204,
+        "amplitude": 0.012042018504539148,
+        "kind": "enhanced_colored",
+        "duration_min": 26
+      }
+    ]
+  },
+  {
+    "scenario_id": 3,
+    "random_seed": 20260814,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 156,
+        "amplitude": -0.10252860212557798,
+        "kind": "pulse",
+        "duration_min": 28
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 280,
+        "amplitude": 0.226504860339238,
+        "kind": "ramp",
+        "duration_min": 36
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 310,
+        "amplitude": 0.1035324375417332,
+        "kind": "ramp",
+        "duration_min": 29
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 280,
+        "amplitude": 0.014612344381455011,
+        "kind": "enhanced_colored",
+        "duration_min": 23
+      }
+    ]
+  },
+  {
+    "scenario_id": 4,
+    "random_seed": 20260815,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 149,
+        "amplitude": -0.09099257415394682,
+        "kind": "pulse",
+        "duration_min": 52
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 207,
+        "amplitude": -0.173969408685894,
+        "kind": "ramp",
+        "duration_min": 48
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 271,
+        "amplitude": 0.1365859077750073,
+        "kind": "step",
+        "duration_min": 53
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 272,
+        "amplitude": 0.015094770363756454,
+        "kind": "enhanced_colored",
+        "duration_min": 45
+      }
+    ]
+  },
+  {
+    "scenario_id": 5,
+    "random_seed": 20260816,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 81,
+        "amplitude": 0.09055545085609475,
+        "kind": "ramp",
+        "duration_min": 33
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 184,
+        "amplitude": -0.1748626883948006,
+        "kind": "pulse",
+        "duration_min": 53
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 208,
+        "amplitude": -0.08565236751927126,
+        "kind": "step",
+        "duration_min": 26
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 210,
+        "amplitude": 0.01347174375448742,
+        "kind": "enhanced_colored",
+        "duration_min": 36
+      }
+    ]
+  },
+  {
+    "scenario_id": 6,
+    "random_seed": 20260817,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 92,
+        "amplitude": 0.11004781077594315,
+        "kind": "ramp",
+        "duration_min": 34
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 163,
+        "amplitude": -0.20448313776794766,
+        "kind": "step",
+        "duration_min": 33
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 251,
+        "amplitude": -0.09036655245906129,
+        "kind": "pulse",
+        "duration_min": 34
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 165,
+        "amplitude": 0.012314430087589378,
+        "kind": "enhanced_colored",
+        "duration_min": 34
+      }
+    ]
+  },
+  {
+    "scenario_id": 7,
+    "random_seed": 20260818,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 185,
+        "amplitude": -0.12126515591337392,
+        "kind": "ramp",
+        "duration_min": 38
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 214,
+        "amplitude": -0.19887257101573255,
+        "kind": "pulse",
+        "duration_min": 28
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 311,
+        "amplitude": -0.09200116560621464,
+        "kind": "pulse",
+        "duration_min": 31
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 253,
+        "amplitude": 0.013475916813131462,
+        "kind": "enhanced_colored",
+        "duration_min": 26
+      }
+    ]
+  },
+  {
+    "scenario_id": 8,
+    "random_seed": 20260819,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 71,
+        "amplitude": 0.08483908787306897,
+        "kind": "ramp",
+        "duration_min": 52
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 182,
+        "amplitude": 0.1845571459925615,
+        "kind": "pulse",
+        "duration_min": 48
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 290,
+        "amplitude": -0.11358015776311862,
+        "kind": "pulse",
+        "duration_min": 27
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 193,
+        "amplitude": 0.013138837700779022,
+        "kind": "enhanced_colored",
+        "duration_min": 35
+      }
+    ]
+  },
+  {
+    "scenario_id": 9,
+    "random_seed": 20260820,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 71,
+        "amplitude": -0.13001367021365198,
+        "kind": "step",
+        "duration_min": 45
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 94,
+        "amplitude": -0.19727312734704652,
+        "kind": "pulse",
+        "duration_min": 40
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 113,
+        "amplitude": 0.09102735818107904,
+        "kind": "ramp",
+        "duration_min": 42
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 173,
+        "amplitude": 0.011347604519029693,
+        "kind": "enhanced_colored",
+        "duration_min": 29
+      }
+    ]
+  },
+  {
+    "scenario_id": 10,
+    "random_seed": 20260821,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 125,
+        "amplitude": 0.12929329970167727,
+        "kind": "step",
+        "duration_min": 39
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 282,
+        "amplitude": -0.16498320162869995,
+        "kind": "pulse",
+        "duration_min": 32
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 283,
+        "amplitude": -0.09428811073683946,
+        "kind": "pulse",
+        "duration_min": 38
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 200,
+        "amplitude": 0.014722554210331213,
+        "kind": "enhanced_colored",
+        "duration_min": 48
+      }
+    ]
+  },
+  {
+    "scenario_id": 11,
+    "random_seed": 20260822,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 77,
+        "amplitude": 0.12262297807569543,
+        "kind": "pulse",
+        "duration_min": 42
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 86,
+        "amplitude": 0.17385152985619362,
+        "kind": "ramp",
+        "duration_min": 44
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 176,
+        "amplitude": 0.08864824546102995,
+        "kind": "step",
+        "duration_min": 31
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 184,
+        "amplitude": 0.01067588231197483,
+        "kind": "enhanced_colored",
+        "duration_min": 25
+      }
+    ]
+  },
+  {
+    "scenario_id": 12,
+    "random_seed": 20260823,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 253,
+        "amplitude": 0.14260108302696506,
+        "kind": "ramp",
+        "duration_min": 26
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 269,
+        "amplitude": -0.1858253249312972,
+        "kind": "pulse",
+        "duration_min": 33
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 314,
+        "amplitude": 0.12455362675431678,
+        "kind": "step",
+        "duration_min": 50
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 230,
+        "amplitude": 0.016624650116275296,
+        "kind": "enhanced_colored",
+        "duration_min": 33
+      }
+    ]
+  },
+  {
+    "scenario_id": 13,
+    "random_seed": 20260824,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 141,
+        "amplitude": 0.11899051382556358,
+        "kind": "step",
+        "duration_min": 30
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 151,
+        "amplitude": -0.21875817042172102,
+        "kind": "step",
+        "duration_min": 47
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 173,
+        "amplitude": -0.14654404867107135,
+        "kind": "step",
+        "duration_min": 39
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 172,
+        "amplitude": 0.014518081542089556,
+        "kind": "enhanced_colored",
+        "duration_min": 45
+      }
+    ]
+  },
+  {
+    "scenario_id": 14,
+    "random_seed": 20260825,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 175,
+        "amplitude": 0.10257981977193785,
+        "kind": "pulse",
+        "duration_min": 41
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 258,
+        "amplitude": -0.20610811176606775,
+        "kind": "ramp",
+        "duration_min": 41
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 276,
+        "amplitude": -0.08373282227914972,
+        "kind": "ramp",
+        "duration_min": 46
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 244,
+        "amplitude": 0.01400933366236781,
+        "kind": "enhanced_colored",
+        "duration_min": 31
+      }
+    ]
+  },
+  {
+    "scenario_id": 15,
+    "random_seed": 20260826,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 94,
+        "amplitude": 0.11529305922665696,
+        "kind": "step",
+        "duration_min": 52
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 102,
+        "amplitude": 0.2372667081117689,
+        "kind": "pulse",
+        "duration_min": 34
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 171,
+        "amplitude": -0.11865987761643304,
+        "kind": "step",
+        "duration_min": 25
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 150,
+        "amplitude": 0.015310136852986793,
+        "kind": "enhanced_colored",
+        "duration_min": 21
+      }
+    ]
+  },
+  {
+    "scenario_id": 16,
+    "random_seed": 20260827,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 122,
+        "amplitude": 0.09584091292627028,
+        "kind": "pulse",
+        "duration_min": 26
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 131,
+        "amplitude": 0.15363496388033643,
+        "kind": "step",
+        "duration_min": 26
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 231,
+        "amplitude": -0.08467822172445287,
+        "kind": "ramp",
+        "duration_min": 47
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 171,
+        "amplitude": 0.011017052877823267,
+        "kind": "enhanced_colored",
+        "duration_min": 45
+      }
+    ]
+  },
+  {
+    "scenario_id": 17,
+    "random_seed": 20260828,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 131,
+        "amplitude": -0.14350845297639456,
+        "kind": "step",
+        "duration_min": 41
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 155,
+        "amplitude": -0.2302814297082867,
+        "kind": "pulse",
+        "duration_min": 38
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 168,
+        "amplitude": -0.13611440461759752,
+        "kind": "pulse",
+        "duration_min": 44
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 175,
+        "amplitude": 0.01356209346966562,
+        "kind": "enhanced_colored",
+        "duration_min": 39
+      }
+    ]
+  },
+  {
+    "scenario_id": 18,
+    "random_seed": 20260829,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 111,
+        "amplitude": -0.09293805660639201,
+        "kind": "step",
+        "duration_min": 39
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 139,
+        "amplitude": -0.16569003620205414,
+        "kind": "step",
+        "duration_min": 37
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 165,
+        "amplitude": 0.14645097554789988,
+        "kind": "pulse",
+        "duration_min": 50
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 174,
+        "amplitude": 0.012901401649199565,
+        "kind": "enhanced_colored",
+        "duration_min": 24
+      }
+    ]
+  },
+  {
+    "scenario_id": 19,
+    "random_seed": 20260830,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 169,
+        "amplitude": -0.1251562222751364,
+        "kind": "step",
+        "duration_min": 49
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 196,
+        "amplitude": 0.18786806424586577,
+        "kind": "pulse",
+        "duration_min": 32
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 247,
+        "amplitude": -0.09116784456491411,
+        "kind": "step",
+        "duration_min": 37
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 297,
+        "amplitude": 0.014138472943635176,
+        "kind": "enhanced_colored",
+        "duration_min": 24
+      }
+    ]
+  },
+  {
+    "scenario_id": 20,
+    "random_seed": 20260831,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 99,
+        "amplitude": 0.11143606614625774,
+        "kind": "pulse",
+        "duration_min": 46
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 211,
+        "amplitude": 0.20610770704072162,
+        "kind": "ramp",
+        "duration_min": 31
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 310,
+        "amplitude": 0.10826557263429083,
+        "kind": "pulse",
+        "duration_min": 41
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 216,
+        "amplitude": 0.00846589697020498,
+        "kind": "enhanced_colored",
+        "duration_min": 48
+      }
+    ]
+  },
+  {
+    "scenario_id": 21,
+    "random_seed": 20260832,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 105,
+        "amplitude": 0.13028209905019983,
+        "kind": "ramp",
+        "duration_min": 28
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 177,
+        "amplitude": 0.2179093706242834,
+        "kind": "pulse",
+        "duration_min": 32
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 207,
+        "amplitude": -0.10234081114558889,
+        "kind": "ramp",
+        "duration_min": 25
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 210,
+        "amplitude": 0.008558118995901602,
+        "kind": "enhanced_colored",
+        "duration_min": 37
+      }
+    ]
+  },
+  {
+    "scenario_id": 22,
+    "random_seed": 20260833,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 119,
+        "amplitude": 0.11367123829457187,
+        "kind": "step",
+        "duration_min": 35
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 236,
+        "amplitude": -0.15642080000834194,
+        "kind": "pulse",
+        "duration_min": 40
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 308,
+        "amplitude": -0.10700768032626197,
+        "kind": "ramp",
+        "duration_min": 34
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 159,
+        "amplitude": 0.010863498190046887,
+        "kind": "enhanced_colored",
+        "duration_min": 20
+      }
+    ]
+  },
+  {
+    "scenario_id": 23,
+    "random_seed": 20260834,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 78,
+        "amplitude": 0.09704225967929037,
+        "kind": "step",
+        "duration_min": 41
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 134,
+        "amplitude": 0.1738255473842075,
+        "kind": "step",
+        "duration_min": 49
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 165,
+        "amplitude": -0.14271502506695066,
+        "kind": "pulse",
+        "duration_min": 45
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 181,
+        "amplitude": 0.011862419979997835,
+        "kind": "enhanced_colored",
+        "duration_min": 36
+      }
+    ]
+  },
+  {
+    "scenario_id": 24,
+    "random_seed": 20260835,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 149,
+        "amplitude": 0.13942471937798995,
+        "kind": "ramp",
+        "duration_min": 46
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 201,
+        "amplitude": -0.17904173895690562,
+        "kind": "ramp",
+        "duration_min": 38
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 274,
+        "amplitude": 0.08418944644469024,
+        "kind": "pulse",
+        "duration_min": 26
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 244,
+        "amplitude": 0.012500015508805152,
+        "kind": "enhanced_colored",
+        "duration_min": 41
+      }
+    ]
+  },
+  {
+    "scenario_id": 25,
+    "random_seed": 20260836,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 132,
+        "amplitude": 0.13620635947619983,
+        "kind": "ramp",
+        "duration_min": 49
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 150,
+        "amplitude": -0.21710259429458867,
+        "kind": "step",
+        "duration_min": 45
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 211,
+        "amplitude": 0.11326537599767747,
+        "kind": "step",
+        "duration_min": 31
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 215,
+        "amplitude": 0.011722547844364361,
+        "kind": "enhanced_colored",
+        "duration_min": 49
+      }
+    ]
+  },
+  {
+    "scenario_id": 26,
+    "random_seed": 20260837,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 137,
+        "amplitude": 0.09799542778950972,
+        "kind": "pulse",
+        "duration_min": 35
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 224,
+        "amplitude": -0.24887429525819812,
+        "kind": "pulse",
+        "duration_min": 25
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 282,
+        "amplitude": -0.14081418458629122,
+        "kind": "pulse",
+        "duration_min": 31
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 159,
+        "amplitude": 0.011528286056090875,
+        "kind": "enhanced_colored",
+        "duration_min": 39
+      }
+    ]
+  },
+  {
+    "scenario_id": 27,
+    "random_seed": 20260838,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 110,
+        "amplitude": -0.12506695880932067,
+        "kind": "ramp",
+        "duration_min": 49
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 119,
+        "amplitude": 0.19733549982971949,
+        "kind": "pulse",
+        "duration_min": 30
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 168,
+        "amplitude": 0.10111461670998487,
+        "kind": "ramp",
+        "duration_min": 49
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 237,
+        "amplitude": 0.0142578114521387,
+        "kind": "enhanced_colored",
+        "duration_min": 30
+      }
+    ]
+  },
+  {
+    "scenario_id": 28,
+    "random_seed": 20260839,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 134,
+        "amplitude": -0.13491183514829858,
+        "kind": "step",
+        "duration_min": 28
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 145,
+        "amplitude": -0.2159786738557583,
+        "kind": "ramp",
+        "duration_min": 42
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 216,
+        "amplitude": -0.14641249926494815,
+        "kind": "step",
+        "duration_min": 28
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 154,
+        "amplitude": 0.018219004121558923,
+        "kind": "enhanced_colored",
+        "duration_min": 29
+      }
+    ]
+  },
+  {
+    "scenario_id": 29,
+    "random_seed": 20260840,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 76,
+        "amplitude": -0.1484690976491613,
+        "kind": "step",
+        "duration_min": 26
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 227,
+        "amplitude": -0.1872705785583905,
+        "kind": "ramp",
+        "duration_min": 51
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 288,
+        "amplitude": 0.09793477128538766,
+        "kind": "step",
+        "duration_min": 38
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 187,
+        "amplitude": 0.013836846086630735,
+        "kind": "enhanced_colored",
+        "duration_min": 20
+      }
+    ]
+  },
+  {
+    "scenario_id": 30,
+    "random_seed": 20260841,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 116,
+        "amplitude": -0.13969013499392224,
+        "kind": "ramp",
+        "duration_min": 42
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 188,
+        "amplitude": 0.1578055597754453,
+        "kind": "ramp",
+        "duration_min": 50
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 234,
+        "amplitude": -0.11339675661272283,
+        "kind": "pulse",
+        "duration_min": 36
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 151,
+        "amplitude": 0.013971144878428408,
+        "kind": "enhanced_colored",
+        "duration_min": 43
+      }
+    ]
+  },
+  {
+    "scenario_id": 100,
+    "random_seed": 20261811,
+    "events": [
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 2176,
+        "amplitude": -0.1305386744998939,
+        "kind": "pulse",
+        "duration_min": 37
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 15518,
+        "amplitude": -0.24400874840107226,
+        "kind": "step",
+        "duration_min": 45
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 16696,
+        "amplitude": 0.09302175855853027,
+        "kind": "pulse",
+        "duration_min": 32
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 453,
+        "amplitude": -0.16312447919115353,
+        "kind": "ramp",
+        "duration_min": 52
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 965,
+        "amplitude": 0.15091770792885015,
+        "kind": "step",
+        "duration_min": 67
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 1424,
+        "amplitude": 0.06925084338104173,
+        "kind": "ramp",
+        "duration_min": 21
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 1911,
+        "amplitude": 0.132161110386476,
+        "kind": "ramp",
+        "duration_min": 33
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 2377,
+        "amplitude": -0.06113239515935302,
+        "kind": "pulse",
+        "duration_min": 66
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 2874,
+        "amplitude": -0.09430619135724251,
+        "kind": "step",
+        "duration_min": 70
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 3362,
+        "amplitude": 0.07476132368078199,
+        "kind": "ramp",
+        "duration_min": 42
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 3864,
+        "amplitude": -0.11181730255842802,
+        "kind": "step",
+        "duration_min": 29
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 4292,
+        "amplitude": 0.04573763440292049,
+        "kind": "pulse",
+        "duration_min": 78
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 4799,
+        "amplitude": 0.2666888332678169,
+        "kind": "pulse",
+        "duration_min": 32
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 5297,
+        "amplitude": -0.05907320673213153,
+        "kind": "pulse",
+        "duration_min": 63
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 5762,
+        "amplitude": 0.12348220739242885,
+        "kind": "step",
+        "duration_min": 56
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 6263,
+        "amplitude": -0.050123621925252305,
+        "kind": "step",
+        "duration_min": 29
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 6750,
+        "amplitude": 0.13425094273630014,
+        "kind": "ramp",
+        "duration_min": 48
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 7192,
+        "amplitude": -0.09818648917914521,
+        "kind": "step",
+        "duration_min": 78
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 7658,
+        "amplitude": 0.10090521880729592,
+        "kind": "ramp",
+        "duration_min": 72
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 8146,
+        "amplitude": -0.07429875115282744,
+        "kind": "step",
+        "duration_min": 63
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 8656,
+        "amplitude": -0.1392689801763861,
+        "kind": "ramp",
+        "duration_min": 72
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 9120,
+        "amplitude": -0.1260759676222316,
+        "kind": "pulse",
+        "duration_min": 23
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 9623,
+        "amplitude": 0.13748043442054225,
+        "kind": "step",
+        "duration_min": 44
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 10056,
+        "amplitude": 0.06149848439476137,
+        "kind": "step",
+        "duration_min": 47
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 10587,
+        "amplitude": 0.0930171297368249,
+        "kind": "step",
+        "duration_min": 34
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 11064,
+        "amplitude": 0.06795902760679853,
+        "kind": "pulse",
+        "duration_min": 66
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 11505,
+        "amplitude": 0.14063395795360015,
+        "kind": "step",
+        "duration_min": 41
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 11972,
+        "amplitude": 0.08975486618972636,
+        "kind": "ramp",
+        "duration_min": 77
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 12460,
+        "amplitude": -0.1499398544894745,
+        "kind": "step",
+        "duration_min": 53
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 12959,
+        "amplitude": -0.0696528591651645,
+        "kind": "step",
+        "duration_min": 41
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 13444,
+        "amplitude": -0.2699351195996787,
+        "kind": "ramp",
+        "duration_min": 42
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 13947,
+        "amplitude": -0.05834775780798618,
+        "kind": "ramp",
+        "duration_min": 28
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 14420,
+        "amplitude": -0.08249149559825045,
+        "kind": "pulse",
+        "duration_min": 77
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 14864,
+        "amplitude": 0.07031548217684297,
+        "kind": "pulse",
+        "duration_min": 33
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 15343,
+        "amplitude": 0.0923955475597991,
+        "kind": "pulse",
+        "duration_min": 79
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 15857,
+        "amplitude": -0.09664999706342667,
+        "kind": "ramp",
+        "duration_min": 38
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 16334,
+        "amplitude": -0.08638482980416978,
+        "kind": "ramp",
+        "duration_min": 67
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 16814,
+        "amplitude": -0.044689332308116975,
+        "kind": "pulse",
+        "duration_min": 28
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 17273,
+        "amplitude": 0.11299115761906363,
+        "kind": "ramp",
+        "duration_min": 44
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 17789,
+        "amplitude": -0.17221681297851815,
+        "kind": "ramp",
+        "duration_min": 64
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 18260,
+        "amplitude": -0.08097469693032013,
+        "kind": "ramp",
+        "duration_min": 79
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 18737,
+        "amplitude": -0.05397467329051699,
+        "kind": "pulse",
+        "duration_min": 54
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 19177,
+        "amplitude": 0.13190402674988175,
+        "kind": "pulse",
+        "duration_min": 24
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 19661,
+        "amplitude": 0.0660882138359087,
+        "kind": "step",
+        "duration_min": 41
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 20173,
+        "amplitude": 0.12812447837143714,
+        "kind": "ramp",
+        "duration_min": 31
+      },
+      {
+        "dv": "Cond_Flow",
+        "dv_index": 3,
+        "start_min": 20647,
+        "amplitude": -0.08042947822560953,
+        "kind": "step",
+        "duration_min": 46
+      },
+      {
+        "dv": "Makeup_Flow",
+        "dv_index": 4,
+        "start_min": 21135,
+        "amplitude": -0.09168244494844456,
+        "kind": "ramp",
+        "duration_min": 50
+      },
+      {
+        "dv": "unmeasured_colored_disturbance",
+        "dv_index": -1,
+        "start_min": 19921,
+        "amplitude": 0.01789039279615648,
+        "kind": "enhanced_colored",
+        "duration_min": 20
+      },
+      {
+        "dv": "unmeasured_chemistry_excursion",
+        "dv_index": -1,
+        "start_min": 1800,
+        "amplitude": 0.08746427842267951,
+        "kind": "short_unmeasured_excursion",
+        "duration_min": 12
+      },
+      {
+        "dv": "unmeasured_chemistry_excursion",
+        "dv_index": -1,
+        "start_min": 4200,
+        "amplitude": 0.08746427842267951,
+        "kind": "short_unmeasured_excursion",
+        "duration_min": 8
+      },
+      {
+        "dv": "unmeasured_chemistry_excursion",
+        "dv_index": -1,
+        "start_min": 6600,
+        "amplitude": 0.08746427842267951,
+        "kind": "short_unmeasured_excursion",
+        "duration_min": 7
+      },
+      {
+        "dv": "unmeasured_chemistry_excursion",
+        "dv_index": -1,
+        "start_min": 9000,
+        "amplitude": 0.08746427842267951,
+        "kind": "short_unmeasured_excursion",
+        "duration_min": 11
+      },
+      {
+        "dv": "unmeasured_chemistry_excursion",
+        "dv_index": -1,
+        "start_min": 11400,
+        "amplitude": 0.08746427842267951,
+        "kind": "short_unmeasured_excursion",
+        "duration_min": 12
+      },
+      {
+        "dv": "unmeasured_chemistry_excursion",
+        "dv_index": -1,
+        "start_min": 13800,
+        "amplitude": 0.08746427842267951,
+        "kind": "short_unmeasured_excursion",
+        "duration_min": 6
+      },
+      {
+        "dv": "unmeasured_chemistry_excursion",
+        "dv_index": -1,
+        "start_min": 16200,
+        "amplitude": 0.08746427842267951,
+        "kind": "short_unmeasured_excursion",
+        "duration_min": 10
+      },
+      {
+        "dv": "unmeasured_chemistry_excursion",
+        "dv_index": -1,
+        "start_min": 18600,
+        "amplitude": 0.08746427842267951,
+        "kind": "short_unmeasured_excursion",
+        "duration_min": 6
+      }
+    ]
+  }
+]

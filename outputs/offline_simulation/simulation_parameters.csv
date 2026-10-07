@@ -1,0 +1,30 @@
+parameter,value
+simulation_type,offline theoretical constrained-DMC benchmark
+master_seed,20260811
+Ts_min,1.0
+N,60
+P,40
+M,5
+horizon_candidates,"[10, 20, 30, 40]"
+horizon_selection,"12 independent 360 min validation scenarios; feasibility first, then HP/IP IAE, then TV tie-break within 1%"
+pH_tracking_Q,"diag(4,4)"
+conductivity_zone_weight,2.0
+conductivity_zone_threshold,0.25
+conductivity_predictive_hard_upper_constraint,0.3
+R_u,"diag(1.0,1.2)"
+u_bounds,"[-0.40,0.40]"
+du_rate,±0.03/min
+plant_gain_mismatch,"Uniform(-0.15,0.15)"
+plant_tau_mismatch,"Uniform(-0.20,0.20)"
+plant_theta_offset_min,"choice{-2,-1,0,1,2}"
+CV_measurement_noise_std,"{""HP_pH"": 0.002, ""IP_pH"": 0.002, ""COND_kappa"": 0.003}"
+DV_measurement_noise_std,"[0.0075, 0.0075, 0.0075, 0.005, 0.005]"
+colored_disturbance_ar,0.95
+colored_disturbance_target_std,"[0.004, 0.004, 0.007]"
+PID_parameters,"{""kp1"": 5.0, ""ki1"": 0.12, ""kp2"": 7.0, ""ki2"": 0.12, ""kaw"": 0.5}"
+PID_tuning,"one held-out 240 min scenario, seed=MASTER_SEED+77; grid Kp1={3,5,7,9}, Ki1={0.04,0.08,0.12}, Kp2={3,5,7,9,11}, Ki2={0.04,0.08,0.12}; minimize IAE+75 saturation+0.015 TV"
+PID_feedback,decentralized baseline: MV1→HP pH and MV2→IP pH; conductivity is a monitored constrained CV
+DV_hold,dhat(k+p|k)=d(k)
+DV_trend,"L=5 bounded slope, no future true DV"
+QP,standard slack-variable constrained QP solved by active set with Phase-I scipy linprog; hold then PID fallback after three consecutive infeasible periods
+DMC3_boundary,Aspen DMC3 is not used to generate numerical results; it is discussed only as an implementation mapping.

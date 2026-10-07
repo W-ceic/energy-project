@@ -1,0 +1,54 @@
+{
+  "K_pH_MV": [
+    [
+      0.06,
+      0.015
+    ],
+    [
+      0.05,
+      0.012
+    ]
+  ],
+  "RGA": [
+    [
+      -23.999999999999893,
+      24.999999999999893
+    ],
+    [
+      24.999999999999893,
+      -23.999999999999897
+    ]
+  ],
+  "condition_number": 215.6286957316626,
+  "PID_diagonal_pairing": "MV1→HP pH; MV2→IP pH",
+  "PID_cross_pairing": "MV1→IP pH; MV2→HP pH",
+  "PID_diagonal_parameters": {
+    "kp1": 5.0,
+    "ki1": 0.12,
+    "kp2": 7.0,
+    "ki2": 0.12,
+    "kaw": 0.5
+  },
+  "PID_cross_parameters": {
+    "kp1": 3.0,
+    "ki1": 0.12,
+    "kp2": 5.0,
+    "ki2": 0.04,
+    "kaw": 0.5
+  },
+  "same_implementation": "position-form PI with rate/amplitude saturation and back-calculation anti-windup",
+  "same_constraints": {
+    "u_bounds": [
+      -0.4,
+      0.4
+    ],
+    "du_bounds": [
+      -0.03,
+      0.03
+    ],
+    "Kaw": 0.5
+  },
+  "tuning": "independent 240 min scenario, seed=MASTER_SEED+177; same grid and score as PID-diagonal",
+  "test_scenarios": "same 30 final scenarios as current DMC/PID-diagonal; identical objects, DV events, unmeasured disturbances, noise and seeds",
+  "DMC_horizon_reused": 40
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Generated benchmark outputs are included for reviewer inspection.`r`n# Regenerated figures and local spreadsheet exports can still be ignored here.`r`noutputs/**/*.png`r`noutputs/**/*.pdf`r`noutputs/**/*.xlsx
+
+# Local/editor files
+.idea/
+.vscode/
+*.log
+
